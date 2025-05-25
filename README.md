@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Splizard 👋
 
-<!--
-**Splizard/Splizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** passionate about building robust systems and designing cohesive comprehensible APIs. My main expertise lies in **Go** and **API design**, with a focus on delivering clean, efficient, and scalable solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+- [**grow-graphics/gd**](https://github.com/grow-graphics/gd)  
+  My flagship project — check it out for powerful graphics development in Go!
+
+---
+
+## 🛠️ What I Do
+
+- Develop customer-needs oriented backend systems in Go
+- Design and implement development-friendly APIs
+- Solve complex technical challenges with simple, maintainable solutions
+
+---
+
+## 📫 Connect
+
+You can find my social links on the sidebar of this profile.  
+Feel free to reach out or check out my work!
+
+---
+
+_Thanks for stopping by!_
