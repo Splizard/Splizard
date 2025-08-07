@@ -1,4 +1,4 @@
-# Hi there, I'm Splizard 👋
+# Hi there, I'm Quentin 👋
 
 I'm a **Software Developer** passionate about building robust systems and designing cohesive comprehensible APIs. My main expertise lies in **Go** and **API design**, with a focus on delivering clean, efficient, and scalable solutions.
 
