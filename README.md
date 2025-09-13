@@ -21,6 +21,8 @@ I'm a **Software Developer** passionate about building robust systems and design
 
 ## 📫 Connect
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/splizard)
+
 You can find my social links on the sidebar of this profile.  
 Feel free to reach out or check out my work!
 
