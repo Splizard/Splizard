@@ -6,7 +6,7 @@ I'm a **Software Developer** passionate about building robust systems and design
 
 ## 🚀 Featured Project
 
-- [**grow-graphics/gd**](https://github.com/grow-graphics/gd)  
+- [**graphics.gd**](https://github.com/quaadgras/graphics.gd)  
   My flagship project — check it out for powerful graphics development in Go!
 
 ---
